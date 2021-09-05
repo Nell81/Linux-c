@@ -1,0 +1,15 @@
+总用量 132
+drwxrwxr-x  2 silas silas  4096 9月   4 22:31 ./
+drwxrwxrwx 14 silas silas  4096 9月   4 21:35 ../
+-rwxrwxr-x  1 silas silas 17016 9月   4 21:53 hello_multi*
+-rw-rw-r--  1 silas silas   514 9月   4 21:53 hello_multi.c
+-rwxrwxr-x  1 silas silas 16912 9月   4 21:43 hello_signal*
+-rw-rw-r--  1 silas silas   311 9月   4 21:43 hello_signal.c
+-rwxrwxr-x  1 silas silas 16960 9月   4 22:16 incprint*
+-rw-rw-r--  1 silas silas   472 9月   4 22:16 incprint.c
+-rw-rw-r--  1 silas silas     0 9月   4 22:31 newfile
+-rw-rw-r--  1 silas silas     1 9月   4 22:31 oldfile
+-rwxrwxr-x  1 silas silas 17216 9月   4 22:25 twc1*
+-rwxrwxr-x  1 silas silas 17360 9月   4 22:31 twc2*
+-rw-rw-r--  1 silas silas   858 9月   4 22:27 twordcount1.c
+-rw-rw-r--  1 silas silas   997 9月   4 22:31 twordcount2.c
